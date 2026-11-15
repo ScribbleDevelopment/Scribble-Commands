@@ -1,0 +1,15 @@
+{
+    "project": "Scribble-Commands",
+    "version": "11.0",
+    "author": "Scribble",
+    "modules": [
+        "DeviceOptimizer.lua",
+        "UI.lua",
+        "CommandsPart1.lua",
+        "CommandsPart2.lua",
+        "CommandsPart3.lua",
+        "CommandsPart4.lua",
+        "BackdoorScanner.lua",
+        "BypassManager.lua"
+    ]
+}
